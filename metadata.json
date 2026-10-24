@@ -1,6 +1,0 @@
-{
-  "name": "Capacity Connect - MoES & IMD Learning Portal",
-  "description": "National Competency Management and Learning Portal for the Ministry of Earth Sciences and India Meteorological Department under Mission Karmayogi.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
